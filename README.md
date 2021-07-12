@@ -4,7 +4,8 @@
   会社様から 画像ビューワーをテストで作成してほしいとの要望により作成
 
   ３日程度で作成
-
+  windows用に制作
+  
 ## 仕様 framework
 
 Electron, Vue2, Vuetify
